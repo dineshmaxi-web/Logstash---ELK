@@ -1,0 +1,4 @@
+192.168.253.15	clr_q          yes                Device CLEARS its Queue on error True
+192.168.253.19	location                          Location Label                   True
+192.168.253.10	lun_id         0x0                Logical Unit Number ID           False
+192.168.253.10	lun_reset_spt  yes                FC Forced Open LUN               True
